@@ -1,0 +1,22 @@
+<!doctype.html>
+<html>
+<head>
+<title>Hyperlink styling</title>
+<style>
+a{
+color;#1473e8;
+text-decoration:none;
+font-wight:bold;
+transition:color 0.35;
+}
+a hover{
+color:#ff5722;
+text-decoration:underline;
+}
+</style>
+</head>
+<body>
+<p>Welcome to my website you can visit <a herf="https://silveroakuni.ac.in/">example</a>for more information</p>
+<p>or check out<a herf="https://www.silveroakuni.ac.in/studentclub">another example</a></p>
+</body>
+</html>
